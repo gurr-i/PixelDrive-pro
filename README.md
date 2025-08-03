@@ -50,32 +50,32 @@ PixelDrive is a premium desktop wallpaper manager that brings the world's most b
 **Installation Steps:**
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/pixeldrive.git
-   cd pixeldrive
-   ```
+git clone https://github.com/gurr-i/PixelDrive-pro.git
+   cd PixelDrive-pro
+```
 2. Install dependencies:
    ```bash
-   pip install -r requirements.txt
-   ```
+pip install -r requirements.txt
+```
 3. Run PixelDrive:
    ```bash
-   python -m wallpaper_changer.main
-   ```
+python -m wallpaper_changer.main
+```
 4. Run build commands:
    ```bash
-   python -m PyInstaller wallpaper_changer.spec
-   ```
+python -m PyInstaller wallpaper_changer.spec
+```
 5. Run the executable:
    ```bash
-   ./dist/Wallpaper\ Changer.exe
-   ```
+./dist/Wallpaper\ Changer.exe
+```
    ```bash
-   python -m PyInstaller wallpaper_changer.spec
-   ```
+python -m PyInstaller wallpaper_changer.spec
+```
 6. Run the executable:
    ```bash
-   ./dist/Wallpaper\ Changer.exe
-   ```
+./dist/Wallpaper\ Changer.exe
+```
 
 ### 📦 **Install as Package**
 
@@ -114,8 +114,8 @@ The application uses the Unsplash API to fetch images. You can:
 1. Use the default API key (limited requests)
 2. Set your own API key as an environment variable:
    ```bash
-   export UNSPLASH_API_KEY="your_api_key_here"
-   ```
+export UNSPLASH_API_KEY="your_api_key_here"
+```
 
 To get your own API key:
 1. Go to [Unsplash Developers](https://unsplash.com/developers)
@@ -167,6 +167,18 @@ The application includes predefined categories focused on luxury and sports cars
 - **Windows**: Full support for desktop and lockscreen wallpapers
 - **macOS**: Desktop wallpaper support (lockscreen uses desktop wallpaper)
 - **Linux**: Desktop and lockscreen support (GNOME)
+
+## License
+
+This project is licensed under the MIT License.
+
+## Credits
+
+- Images provided by [Unsplash](https://unsplash.com)
+- Built with PyQt5
+- Created by Gurveer ❣️
+
+top and lockscreen support (GNOME)
 
 ## License
 
