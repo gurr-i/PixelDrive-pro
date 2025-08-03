@@ -4,6 +4,12 @@
 
 PixelDrive is a premium desktop wallpaper manager that brings the world's most beautiful automotive photography directly to your desktop. Featuring curated collections from luxury car brands like McLaren, Ferrari, Tesla, and more, PixelDrive offers a sophisticated user experience with its modern dark theme, smooth animations, and intuitive interface.
 
+## 🖼️ **Application Interface**
+
+![PixelDrive Interface](image.png)
+
+*PixelDrive's premium dark theme interface showcasing automotive wallpaper collections with smooth animations and intuitive controls.*
+
 ## ✨ Features
 
 ### 🚗 **Curated Automotive Collections**
@@ -171,3 +177,4 @@ This project is licensed under the MIT License.
 - Images provided by [Unsplash](https://unsplash.com)
 - Built with PyQt5
 - Created by Gurveer ❣️
+

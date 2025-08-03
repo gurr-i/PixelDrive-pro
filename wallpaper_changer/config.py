@@ -9,7 +9,7 @@ from typing import List
 from pathlib import Path
 
 # Unsplash API Configuration
-API_KEY: str = os.environ.get("UNSPLASH_API_KEY", "jakjfkjekfjekf")
+API_KEY: str = os.environ.get("UNSPLASH_API_KEY", "Je9oJRVmwRWNgOM3oruJBG7AH9DXwWZNWMRcH6tEez4")
 UNSPLASH_API_BASE_URL: str = "https://api.unsplash.com"
 
 # API Headers
