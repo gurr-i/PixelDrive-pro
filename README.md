@@ -179,14 +179,3 @@ This project is licensed under the MIT License.
 - Created by Gurveer ❣️
 
 top and lockscreen support (GNOME)
-
-## License
-
-This project is licensed under the MIT License.
-
-## Credits
-
-- Images provided by [Unsplash](https://unsplash.com)
-- Built with PyQt5
-- Created by Gurveer ❣️
-
