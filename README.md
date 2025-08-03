@@ -50,32 +50,32 @@ PixelDrive is a premium desktop wallpaper manager that brings the world's most b
 **Installation Steps:**
 1. Clone this repository:
    ```bash
-git clone https://github.com/gurr-i/PixelDrive-pro.git
+   git clone https://github.com/gurr-i/PixelDrive-pro.git
    cd PixelDrive-pro
-```
+   ```
 2. Install dependencies:
    ```bash
-pip install -r requirements.txt
-```
+   pip install -r requirements.txt
+   ```
 3. Run PixelDrive:
    ```bash
-python -m wallpaper_changer.main
-```
+   python -m wallpaper_changer.main
+   ```
 4. Run build commands:
    ```bash
-python -m PyInstaller wallpaper_changer.spec
-```
+   python -m PyInstaller wallpaper_changer.spec
+   ```
 5. Run the executable:
    ```bash
-./dist/Wallpaper\ Changer.exe
-```
+   ./dist/Wallpaper\ Changer.exe
+   ```
    ```bash
-python -m PyInstaller wallpaper_changer.spec
-```
+   python -m PyInstaller wallpaper_changer.spec
+   ```
 6. Run the executable:
    ```bash
-./dist/Wallpaper\ Changer.exe
-```
+   ./dist/Wallpaper\ Changer.exe
+   ```
 
 ### 📦 **Install as Package**
 
